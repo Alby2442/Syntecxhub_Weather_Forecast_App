@@ -65,7 +65,7 @@ The API key is accessed through `BuildConfig` during the application build.
 
 ### Main Screen
 
-![Main Screen](./screenshots/01_main_screen.jpeg)
+![Main Screen](./screenshots/)
 
 ### Weather Result
 
@@ -77,7 +77,7 @@ The API key is accessed through `BuildConfig` during the application build.
 
 ### Cached Weather
 
-![Cached Weather](./screenshots/04_cached_weather.jpeg)
+![Cached Weather](./screenshots/_cached_weather.jpeg)
 
 ## 📦 APK Download
 
