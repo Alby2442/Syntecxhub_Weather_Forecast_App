@@ -1,8 +1,6 @@
 # Weather Forecast App 🌤️
 
-A simple and user-friendly Android Weather Forecast application developed as part of my **Android App Development Internship at Syntecxhub**.
-
-The app allows users to search for the current weather of any city and displays important weather information in a clean and responsive interface.
+A simple and user-friendly Android Weather Forecast application developed as part of my Android App Development Internship at Syntecxhub.
 
 ## 📱 Features
 
@@ -19,8 +17,7 @@ The app allows users to search for the current weather of any city and displays 
 * Invalid API key error handling
 * Network error handling
 * Offline weather data using Room Database cache
-* Displays previously cached weather when there is no internet connection
-* Responsive UI
+* Responsive user interface
 
 ## 🛠️ Technologies Used
 
@@ -40,54 +37,48 @@ The app allows users to search for the current weather of any city and displays 
 ```text
 MainActivity
      ↓
-ViewModel
+  ViewModel
      ↓
-Repository
-   ↙   ↘
-Retrofit  Room Database
-   ↓        ↓
+ Repository
+   ↙     ↘
+Retrofit   Room Database
+   ↓
 OpenWeatherMap API
 ```
 
-The application uses Retrofit to retrieve weather information from the OpenWeatherMap API.
-
-Room Database is used to cache previously retrieved weather information and display it when the device is offline.
-
 ## 🔐 API Key Security
 
-The OpenWeatherMap API key is stored in `local.properties` and is not included in this GitHub repository.
-
-The API key is accessed through `BuildConfig` during the application build.
+The OpenWeatherMap API key is stored securely in `local.properties` and is not included in this GitHub repository.
 
 ## 📸 Screenshots
 
 ### Main Screen
 
-[View Main Screen](./screenshots/01_main_screen)
+![Main Screen](./screenshots/01_main_screen.jpeg)
 
 ### Weather Result
 
-[View Weather Result](./screenshots/02_weather_result)
+![Weather Result](./screenshots/02_weather_result.jpeg)
 
 ### City Not Found
 
-[View City Not Found](./screenshots/03_city_not_found.jpeg)
+![City Not Found](./screenshots/03_city_not_found.jpeg)
 
 ### Cached Weather
 
-[View Cached Weather](./screenshots/_cached_weather.jpeg)
+![Cached Weather](./screenshots/_cached_weather.jpeg)
 
 ## 📦 APK Download
 
-Download the latest APK from the GitHub Release:
+The APK is available through the GitHub Releases section.
 
-**[Download Weather Forecast App v1.0.0]https://github.com/Alby2442/Syntecxhub_Weather_Forecast_App/releases
+👉 [View Releases and Download APK](https://github.com/Alby2442/Syntecxhub_Weather_Forecast_App/releases)
+
+Open the latest release and download `app-debug.apk` from the **Assets** section.
 
 ## 🎓 Internship
 
-This project was developed as part of my **Android App Development Internship at Syntecxhub**.
-
-This project helped me improve my practical knowledge of Android development, Kotlin programming, API integration, MVVM architecture, local data storage, error handling, and offline data caching.
+This project was developed as part of my Android App Development Internship at Syntecxhub.
 
 ## 👨‍💻 Developer
 
@@ -106,3 +97,7 @@ BCA – Computer Applications
 | UI          | XML                                           |
 | API         | OpenWeatherMap                                |
 | Internship  | Syntecxhub Android App Development Internship |
+
+
+
+
