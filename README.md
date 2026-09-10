@@ -75,7 +75,7 @@ The API key is accessed through `BuildConfig` during the application build.
 
 ### Cached Weather
 
-[View Cached Weather](./screenshots/04_cached_weather)
+[View Cached Weather](./screenshots/04_cached_weather.jpeg)
 
 ## 📦 APK Download
 
