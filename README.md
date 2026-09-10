@@ -71,11 +71,11 @@ The API key is accessed through `BuildConfig` during the application build.
 
 ### City Not Found
 
-[View City Not Found](./screenshots/03_city_not_found)
+[View City Not Found](./screenshots/03_city_not_found.jpeg)
 
 ### Cached Weather
 
-[View Cached Weather](./screenshots/04_cached_weather.jpeg)
+[View Cached Weather](./screenshots/_cached_weather.jpeg)
 
 ## 📦 APK Download
 
