@@ -81,7 +81,7 @@ The API key is accessed through `BuildConfig` during the application build.
 
 Download the latest APK from the GitHub Release:
 
-**[Download Weather Forecast App v1.0.0](https://github.com/Alby2442/Syntecxhub_Weather_Forecast_App/releases/download/untagged-eaeb42d8e04e37d201eb/app-debug.apk)**
+**[Download Weather Forecast App v1.0.0](https://github.com/Alby2442/Syntecxhub_Weather_Forecast_App/releases/download/untagged-eaeb42d8e04e37d201eb)**
 
 ## 🎓 Internship
 
